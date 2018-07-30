@@ -4,7 +4,7 @@
 #include <clientprefs>
 #include <cstrike>
 
-#include "weapon_paints/globals.sp"
+#include "globals.sp"
 
 public Plugin myinfo =
 {
