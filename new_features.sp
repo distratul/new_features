@@ -8,7 +8,7 @@
 
 public Plugin myinfo =
 {
-	name = "weapon_paints",
+	name = "new_features",
 	author = "DisTraTuL",
 	description = "Weapons & Knifes Skins",
 	version = "iulie.2018",
